@@ -6,5 +6,6 @@
 
 
 *Screenshot:*
-<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/38d46008-f744-46ae-8a32-c3183d6e1aa4" />
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/d86908e6-4b2e-4312-900f-516fe76aff0c" />
+
 
