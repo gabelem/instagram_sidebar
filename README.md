@@ -1,4 +1,4 @@
-<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/3717bf61-538d-4913-8977-55fc3ef317ec" /># Instagram Sidebar Test (Old project: 3/11/2024)
+# Instagram Sidebar Test (Old project: 3/11/2024)
 
 *This is an old project not finished.*
 
